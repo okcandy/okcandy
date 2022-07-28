@@ -5,7 +5,7 @@
 
 - 👨‍💻 Check out my portfolio [https://okcandy.github.io/portfolio/](https://okcandy.github.io/portfolio/)
 
-<h3 align="left">Connect with me: canokoth@gmail.com</h3>
+<h3 align="left">Connect with me: </h3><h6>canokoth@gmail.com</h6>
 <p align="left">
 </p>
 
