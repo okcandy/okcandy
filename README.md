@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **R Shiny**
 
-- 👨‍💻 Check out my portfolio: [https://okcandy.github.io/portfolio/](https://okcandy.github.io/portfolio/)
+- 👨‍💻 Check out my portfolio: [https://bit.ly/3bglJm7/](https://bit.ly/3bglJm7)
+
 
 <h3 align="left">Connect with me: <h6>canokoth@gmail.com</h6></h3>
 <p align="left">
