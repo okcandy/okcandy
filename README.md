@@ -6,7 +6,7 @@
 - 👨‍💻 Check out my portfolio: [https://bit.ly/3bglJm7/](https://bit.ly/3bglJm7)
 
 
-<h3 align="left">Connect with me: <h6>canokoth@gmail.com</h6></h3>
+<h3 align="left">Connect with me: <h6>mailto:canokoth@gmail.com</h6></h3>
 <p align="left">
 </p>
 
