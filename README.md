@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, welcome to my Github page</h1>
-<h3 align="center">I'm a data science enthusiast based in Nairobi</h3>
+<h3 align="center">I'm a data analyst professional with 4+ years of experience</h3>
 
 - 🌱 I’m currently learning **R Shiny**
 
