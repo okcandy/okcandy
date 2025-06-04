@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **R Shiny**
 
-- 👨‍💻 Check out my portfolio: [https://bit.ly/3bglJm7/](https://bit.ly/3bglJm7)
+- 👨‍💻 Check out my [portfolio](https://bit.ly/3bglJm7)
 
--  Stay updated with my journey on LinkedIn : [https://linkedin.com/in/candyaokoth](https://linkedin.com/in/candyaokoth)
+-  Stay updated with my journey on [LinkedIn](https://linkedin.com/in/candyaokoth)
 
 <p align="left">
 </p>
