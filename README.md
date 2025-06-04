@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, welcome to my Github page</h1>
-<h3 align="center">I'm a data analyst with 5 years of experience</h3>
+<h3 align="center">I'm a data analyst with 5+ years of experience</h3>
 
 - 🌱 I’m currently learning **R Shiny**
 
