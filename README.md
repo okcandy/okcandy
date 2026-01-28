@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **R Shiny**
 
-- 👨‍💻 Check out my [portfolio](https://bit.ly/3bglJm7)
+- 👨‍💻 Check out my [portfolio](https://candyokoth.carrd.co)
 
 -  Stay updated with my journey on [LinkedIn](https://linkedin.com/in/candyaokoth)
 
