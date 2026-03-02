@@ -12,7 +12,7 @@
 <br/>
 
 - 🏥 Focused on **enterprise BI strategy and delivering decision-grade analytics**
-- 🌱 Currently building an **NLP pipeline with spaCy** for text analysis
+- 🌱 Currently learning **NLP with spaCy** for text analysis
 - 💼 View my work: [Portfolio](https://candyokoth.carrd.co)
 - 🤝 Let's connect: [LinkedIn](https://linkedin.com/in/candyaokoth)
 - 💬 Ask me about **SQL, BI dashboards, or translating messy data into clear insights**
