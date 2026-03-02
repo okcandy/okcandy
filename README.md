@@ -36,8 +36,6 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-[Candy Okoth's GitHub stats](https://github-readme-stats.vercel.app/api?username=okcandy&show_icons=true&theme=radical)
+<!-- [Candy Okoth's GitHub stats](https://github-readme-stats.vercel.app/api?username=okcandy&show_icons=true&theme=radical)-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okcandy)](https://github.com/okcandy/github-readme-stats)-->
