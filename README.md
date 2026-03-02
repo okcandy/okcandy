@@ -11,8 +11,8 @@
 
 <br/>
 
-- 🏥 Currently focused on **enterprise BI strategy and delivering decision-grade analytics**
-- 🌱 Building an **NLP pipeline with spaCy** for text analysis
+- 🏥 Focused on **enterprise BI strategy and delivering decision-grade analytics**
+- 🌱 Currently building an **NLP pipeline with spaCy** for text analysis
 - 💼 View my work: [Portfolio](https://candyokoth.carrd.co)
 - 🤝 Let's connect: [LinkedIn](https://linkedin.com/in/candyaokoth)
 - 💬 Ask me about **SQL, BI dashboards, or translating messy data into clear insights**
@@ -38,13 +38,6 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okcandy&show_icons=true&theme=tokyonight&hide_border=true" alt="Candy's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okcandy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 <!--![Candy Okoth's GitHub stats](https://github-readme-stats.vercel.app/api?username=okcandy&show_icons=true&theme=radical)-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okcandy)](https://github.com/okcandy/github-readme-stats)-->
