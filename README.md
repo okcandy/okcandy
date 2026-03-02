@@ -4,7 +4,7 @@
 
 <p align="center">
   I specialize in transforming complex data into clear, 
-  decision-grade insights. With 5+ years of experience in business intelligence, 
+  decision-grade insights. With 5+ years of experience in business intelligence and analytics, 
   I build analytical models, interactive dashboards, and data pipelines that help 
   organizations make smarter and faster decisions.
 </p>
