@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Candy 👋</h1>
+<h2 align="center">Hi, I'm Candy 👋</h2>
 
 <h3 align="center"> BI & Data Analyst | SQL · Power BI · Tableau · Python</h3>
 
@@ -6,7 +6,7 @@
   I specialize in transforming complex data into clear, 
   decision-grade insights. With 5+ years of experience in business intelligence, 
   I build analytical models, interactive dashboards, and data pipelines that help 
-  organizations make smarter, faster decisions.
+  organizations make smarter and faster decisions.
 </p>
 
 <br/>
@@ -38,6 +38,6 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<!--![Candy Okoth's GitHub stats](https://github-readme-stats.vercel.app/api?username=okcandy&show_icons=true&theme=radical)-->
+[Candy Okoth's GitHub stats](https://github-readme-stats.vercel.app/api?username=okcandy&show_icons=true&theme=radical)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okcandy)](https://github.com/okcandy/github-readme-stats)-->
