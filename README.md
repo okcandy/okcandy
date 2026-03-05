@@ -15,7 +15,7 @@
 - 🌱 Currently diving deeper into **NLP using spaCy** for advanced text analysis and building natural language understanding systems, using rule-based and machine learning approaches.
 - 💼 View my work: [Portfolio](https://candyokoth.carrd.co)
 - 🤝 Let's connect: [LinkedIn](https://linkedin.com/in/candyaokoth)
-- 💬 Ask me about **SQL, BI dashboards, or translating messy data into clear insights**
+- 💬 Ask me about **SQL, BI dashboards, or translating messy data into clear insights**.
 
 <br/>
 
