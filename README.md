@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Candy 👋</h2>
+<h2 align="center">Hi, I'm Candy </h2>
 
 <h3 align="center"> BI & Data Analyst — SQL · Python · Databricks · Power BI · Tableau · Power Platform</h3>
 
